@@ -1,10 +1,10 @@
 # Fine-Tuning a CNN Model for Cats vs. Dogs Classification 🐱🐶
-📌 Overview
+📌 Overview:
 This project fine-tunes a pre-trained MobileNetV2 model to classify images of cats and dogs. The dataset used is TensorFlow's cats_vs_dogs dataset. The model was trained with transfer learning and further optimized using fine-tuning.
 
 
 
-📌 Steps in the Project
+📌 Steps in the Project:
 
 1️⃣ Load and preprocess the cats_vs_dogs dataset.
 
@@ -21,7 +21,7 @@ This project fine-tunes a pre-trained MobileNetV2 model to classify images of ca
 
 
 
-📊 Model Performance
+📊 Model Performance:
 
 ✅ Initial Training Accuracy: ~96.38%
 
