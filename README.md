@@ -2,6 +2,8 @@
 📌 Overview
 This project fine-tunes a pre-trained MobileNetV2 model to classify images of cats and dogs. The dataset used is TensorFlow's cats_vs_dogs dataset. The model was trained with transfer learning and further optimized using fine-tuning.
 
+
+
 📌 Steps in the Project
 
 1️⃣ Load and preprocess the cats_vs_dogs dataset.
@@ -15,6 +17,9 @@ This project fine-tunes a pre-trained MobileNetV2 model to classify images of ca
 5️⃣ Unfreeze the last 50 layers for fine-tuning to improve performance.
 
 6️⃣ Save and deploy the fine-tuned model.
+
+
+
 
 📊 Model Performance
 
